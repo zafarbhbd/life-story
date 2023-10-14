@@ -6,3 +6,4 @@ It was a great experience.
 This is 1st commit.
 This is 2nd commit.
 This is 3rd commit.
+That is 1st commit in main.
